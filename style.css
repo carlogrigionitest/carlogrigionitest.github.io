@@ -12,6 +12,7 @@ html,
   width: 100%;
 }
 
+.button1 {background-color: #4CAF50;} /* Green */
 /* Center the content in the browser window */
 .container {
   margin: auto;
