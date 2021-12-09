@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
 }
 
-/* Make content area fill the entire browser window */
+/* Make content area fill the entire browser window
 html,
 .fullscreen {
   display: flex;
@@ -12,8 +12,8 @@ html,
   width: 100%;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
-/* Center the content in the browser window */
+.button1 {background-color: #4CAF50;}  Green
+ Center the content in the browser window
 .container {
   margin: auto;
   text-align: center;
@@ -22,3 +22,4 @@ html,
 .title {
   font-size: 3rem;
 }
+*/
