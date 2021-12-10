@@ -4,7 +4,8 @@
   "icons": [{
     "src": "icon/pennies.png",
       "sizes": "1024x1024",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }],
   "lang": "en-US",
   "start_url": "/index.html",
