@@ -2,7 +2,7 @@
   "name": "Expense tracker",
   "short_name": "Expense",
   "icons": [{
-    "src": "icon/Pennies.png",
+    "src": "icon/pennies.png",
       "sizes": "1024x1024",
       "type": "image/png"
     }],
