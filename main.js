@@ -5,6 +5,7 @@ window.onload = () => {
     navigator.serviceWorker.register('sw.js');
   }
 }
+// codice morto per custom install
 /* let deferredPrompt;
 
 window.addEventListener('beforeinstallprompt', (e) => {
