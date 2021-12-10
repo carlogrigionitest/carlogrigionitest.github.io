@@ -8,7 +8,7 @@ window.onload = () => {
 
 function greet()
 {
-  alert('hello, user')
+  alert('hello, user');
 }
 // codice morto per custom install
 /* let deferredPrompt;
