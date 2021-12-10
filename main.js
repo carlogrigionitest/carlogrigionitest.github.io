@@ -8,7 +8,8 @@ window.onload = () => {
 
 function greet()
 {
-  alert('hello, user');
+  let name = document.querySelector('#name').value;//identify any element of HTML
+  alert('hello, '+name);
 }
 // codice morto per custom install
 /* let deferredPrompt;
