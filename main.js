@@ -5,12 +5,6 @@ window.onload = () => {
     navigator.serviceWorker.register('sw.js');
   }
 }
-document.querySelector('form').addEventListener('submit', greet);
-function greet()
-{
-  let name = document.querySelector('#name').value;//identify any element of HTML
-  alert('hello, '+ name);
-}
 // codice morto per custom install
 /* let deferredPrompt;
 
