@@ -1,11 +1,7 @@
 {
   "name": "Name placeholder",
   "short_name": "Placeholder",
-  "icons": [{
-    "src": "icon/pennies-144.png",
-    "sizes": "144x144",
-    "type": "image/png"
-  },
+  "icons": [
     {
       "src": "icon/pennies-192.png",
       "sizes": "192x192",
@@ -15,18 +11,8 @@
       "src": "icon/pennies-512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
-    {
-      "src": "icon/pennies-196.png",
-      "sizes": "196x196",
-      "type": "image/png"
-    },
-    {
-    "src": "icon/pennies.png",
-      "sizes": "1024x1024",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }],
+    }
+    ],
   "lang": "en-US",
   "start_url": "/index.html",
   "display": "standalone",
