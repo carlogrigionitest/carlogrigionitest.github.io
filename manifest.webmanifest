@@ -13,3 +13,23 @@
   "short_name": "Expanses",
   "start_url": "/index.html"
 }
+
+
+{
+    "src": "icon/pennies.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+
+        {
+          "src": "icon/pennies-196.png",
+          "sizes": "196x196",
+          "type": "image/png"
+        }
+
+        {
+            "src": "icon/pennies-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+          },
